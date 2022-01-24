@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hongpatipan
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking to collaborate on bitkub.com
+- 💞️ I’m looking to collaborate on spacex.com
 - 📫 How to reach me hongpatipan@gmail.com
 
 <!---
